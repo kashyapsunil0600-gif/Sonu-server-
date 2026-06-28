@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="YKTI RAWAT",
+    page_title="𝗦𝗢𝗡𝗨 𝗕𝗥𝗔𝗡𝗗",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -829,7 +829,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂YKTI RAWAT</h1>
+        <h1>🦂𝗦𝗢𝗡𝗨 𝗕𝗥𝗔𝗡𝗗</h1>
         <p>END TO END (E2EE) OFFLINE CONVO SYSTEM</p>
     </div>
     """, unsafe_allow_html=True)
@@ -884,7 +884,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂 YKTI RAWAT</h1>
+        <h1>🦂 𝗦𝗢𝗡𝗨 𝗕𝗥𝗔𝗡𝗗</h1>
         <p>FACEBOOK E2EE CONVO SERVER SYSTEM </p>
     </div>
     """, unsafe_allow_html=True)
